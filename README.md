@@ -6,10 +6,9 @@ Want your own? Easy! Ask your local Ai to spin one up :)
 
 <div align="center">
     <h1>
-        <img src="src/ichthus.png" width="50px" style="vertical-align: middle;">
            Hi! You can call me Titos!
-        <img src="src/ichthus.png" width="50px" style="vertical-align: middle;">
     </h1>
+    <img src="src/ichthus.png" width="50px"> <img src="src/ichthus.png" width="50px"> <img src="src/ichthus.png" width="50px"> 
 </div>
 
 <div align="center">
