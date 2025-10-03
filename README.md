@@ -59,6 +59,7 @@ Rising senior at **Sattler College** pursuing Computer Science with a passion fo
 
 ### Project Highlights
 - **[Hebrew Worksheets](https://glossias.org)** - Educational platform for biblical Hebrew learning using stories
+- **[STRATA](https://github.com/shininglegend/strata)** - Domain-incremental online machine-learning model developed at Salisbury University, funded by NSF.
 - **[Journaling Platform](https://journal.innerexcellence.com)** - Journaling platform for professional coaching built using flask
 - **[FrisbeeTime Mobile App](https://github.com/JonathanBergen/frisbee-time)** - Weather-based activity coordination (team project)
 - **[Discord Shield Bot](https://github.com/shininglegend/shieldbot)** - Security enhancement for 5k+ member community
