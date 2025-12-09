@@ -6,7 +6,7 @@ Want your own? Easy! Ask your local Ai to spin one up :)
 
 <div align="center">
     <h1>
-           Hi! You can call me Titos!
+           Hi! You can call me Titus!
     </h1>
     <img src="src/ichthus.png" width="50px"> <img src="src/ichthus.png" width="50px"> <img src="src/ichthus.png" width="50px"> 
 </div>
