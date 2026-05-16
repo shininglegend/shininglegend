@@ -1,6 +1,6 @@
 <!-- 
 If you're stalking this to find out how I got it... well... claude.ai plus an hour or two of revision.
-Want your own? Easy! Ask your local Ai to spin one up :)
+Want your own? Easy! Ask your local AI to spin one up :)
 -->
 
 
@@ -28,7 +28,7 @@ Want your own? Easy! Ask your local Ai to spin one up :)
 
 ## About Me
 
-Rising senior at **Sattler College** pursuing Computer Science with a passion for **Human-Computer Interaction**, **History**, and **Discipleship**. I'm working toward becoming a professor of Computer Science! 
+Senior at **Sattler College** pursuing Computer Science with a passion for **Human-Computer Interaction**, **History**, and **Discipleship**. I'm working toward becoming a professor of Computer Science! 
 
 *Pssst: Come [study at Sattler!](https://sattler.edu/apply)*
 - Currently working on **High Performance Computing** and **Human-Computer Interaction**
@@ -62,7 +62,7 @@ Rising senior at **Sattler College** pursuing Computer Science with a passion fo
 - **[STRATA](https://github.com/shininglegend/strata)** - Domain-incremental online machine-learning model developed at Salisbury University, funded by NSF.
 - **[Journaling Platform](https://journal.innerexcellence.com)** - Journaling platform for professional coaching built using flask
 - **[FrisbeeTime Mobile App](https://github.com/JonathanBergen/frisbee-time)** - Weather-based activity coordination (team project)
-- **[Discord Shield Bot](https://github.com/shininglegend/shieldbot)** - Security enhancement for 5k+ member community
+- **[Greek Parsing Practice](https://github.com/shininglegend/greek-parsing-practice)** - Free Biblical Koine Greek Parsing Practice
 
 ---
 
