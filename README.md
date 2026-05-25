@@ -29,7 +29,6 @@ Want your own? Easy! Ask your local AI to spin one up :)
 ## About Me
 
 I'm working toward becoming a Computer Science professor! I'm passionate about **Human-Computer Interaction**, **History**, and **Discipleship**. 
-More details at [titusmurphy.com](https://titusmurphy.com)
 
 *Pssst: [Study at Sattler!](https://sattler.edu/apply)*
 - Currently working on **High Performance Computing** and **Human-Computer Interaction**
@@ -39,7 +38,7 @@ More details at [titusmurphy.com](https://titusmurphy.com)
 - **Director of IT** at [Inner Excellence Coaching and Consulting](https://innerexcellence.com)
 - **Teaching Assistant** at [Sattler College](https://sattler.edu)
 - **My Mission**: To inspire and empower others through technology
-- **Contact:** Please use the "mail" button on [titusmurphy.com](https://titusmurphy.com)
+- **Contact:** Use the "mail" button on [titusmurphy.com](https://titusmurphy.com), or connect with me on LinkedIn!
 
 ### Languages, Frameworks & Tools
 <div align="center">
