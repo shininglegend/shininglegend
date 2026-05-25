@@ -28,9 +28,10 @@ Want your own? Easy! Ask your local AI to spin one up :)
 
 ## About Me
 
-Senior at **Sattler College** pursuing Computer Science with a passion for **Human-Computer Interaction**, **History**, and **Discipleship**. I'm working toward becoming a professor of Computer Science! 
+I'm working toward becoming a Computer Science professor! I'm passionate about **Human-Computer Interaction**, **History**, and **Discipleship**. 
+More details at [titusmurphy.com](https://titusmurphy.com)
 
-*Pssst: Come [study at Sattler!](https://sattler.edu/apply)*
+*Pssst: [Study at Sattler!](https://sattler.edu/apply)*
 - Currently working on **High Performance Computing** and **Human-Computer Interaction**
 - Exploring **Frontend Development** and **Human-Centered Computing**
 - Industry Experience in **Cybersecurity**, **Backend Development**, and **Teaching Computer Science**
@@ -38,8 +39,7 @@ Senior at **Sattler College** pursuing Computer Science with a passion for **Hum
 - **Director of IT** at [Inner Excellence Coaching and Consulting](https://innerexcellence.com)
 - **Teaching Assistant** at [Sattler College](https://sattler.edu)
 - **My Mission**: To inspire and empower others through technology
-- **Contact:** slegend1212__at__gmail.com
-
+- **Contact:** Please use the "mail" button on [titusmurphy.com](https://titusmurphy.com)
 
 ### Languages, Frameworks & Tools
 <div align="center">
